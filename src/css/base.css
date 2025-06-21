@@ -40,7 +40,7 @@ main {
   max-width: 1128px;
 }
 
-.search-form {
+.form {
   margin-bottom: 20px;
   padding: 20px;
 
@@ -57,7 +57,7 @@ main {
   box-shadow: 2px 1px 3px 0px rgba(0, 0, 0, 0.3);
 }
 
-.search-form__input {
+.form__input {
   padding: 10px 20px;
   width: 400px;
 
@@ -80,7 +80,7 @@ main {
   }
 }
 
-.search-form__btn {
+.form__btn {
   position: relative;
 
   padding: 10px 20px;
